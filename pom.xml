@@ -98,7 +98,7 @@
                   </goals>
                 </pluginExecutionFilter>
                 <action>
-                  <ignore />
+                  <ignore/>
                 </action>
               </pluginExecution>
               <pluginExecution>
@@ -111,7 +111,7 @@
                   </goals>
                 </pluginExecutionFilter>
                 <action>
-                  <ignore />
+                  <ignore/>
                 </action>
               </pluginExecution>
             </pluginExecutions>
@@ -164,7 +164,7 @@
     <!-- Mahout Dependencies -->
     <mahout.version>0.9-SNAPSHOT</mahout.version>
     <!-- Testing Dependencies -->
-    <junit.version>4.10</junit.version>
+    <junit.version>4.13.1</junit.version>
 
     <!-- Maven Plugin Dependencies -->
     <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
@@ -177,7 +177,7 @@
     <javac.target.version>1.6</javac.target.version>
     <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ssZ</maven.build.timestamp.format>
     <skipTests>false</skipTests>
-    <downloads.url></downloads.url>
+    <downloads.url/>
   </properties>
   
     <dependencies>
